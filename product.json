@@ -1,0 +1,26 @@
+{
+  "product": [
+    {
+      "Id": "1",
+      "productName": "Banana",
+      "productDiscription": "Hey Banana",
+      "productPrice": "30",
+      "expiryDate": "2022-04-23",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "productDiscription": "apple is fruit ",
+      "productPrice": "100kg",
+      "expiryDate": "2022-04-24",
+      "id": 2
+    },
+    {
+      "productName": "Mango ",
+      "productDiscription": "Mango is fruit ",
+      "productPrice": "111kg",
+      "expiryDate": "2022-04-30",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "product": [
+    {
+      "productName": "Yuvraj",
+      "productDiscription": "Yuvraj dange",
+      "productPrice": "222",
+      "expiryDate": "2022-04-24",
+      "id": 1
+    }
+  ]
+}
